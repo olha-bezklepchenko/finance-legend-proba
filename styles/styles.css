@@ -61,6 +61,15 @@ img {
   font-size: 35px;
   line-height: 1.2;
   color: #28a745;
+  display: flex;
+  align-items: center;
+}
+
+.logo-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
 }
 
 .logo-accent {
